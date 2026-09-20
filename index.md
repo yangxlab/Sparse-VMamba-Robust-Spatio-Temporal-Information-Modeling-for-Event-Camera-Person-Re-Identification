@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 <div align="left">
 
 # Sparse VMamba: Robust Spatio-Temporal Information Modeling for Event Camera Person Re-Identification (TIFS 2026)
